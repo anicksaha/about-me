@@ -1,5 +1,5 @@
 # Profiles
 
-> - Linkedin - [anicksaha](https://www.linkedin.com/in/anicksaha/)
-> - Leetcode - [anicksaha](https://leetcode.com/anicksaha/)
-> - Kaggle - [anicksaha](https://www.kaggle.com/anicksaha)
+> - [Linkedin](https://www.linkedin.com/in/anicksaha/)
+> - [Leetcode](https://leetcode.com/anicksaha/)
+> - [Kaggle](https://www.kaggle.com/anicksaha)
