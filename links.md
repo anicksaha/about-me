@@ -1,13 +1,13 @@
 ### SN_1:
-> [Quora](https://www.quora.com/profile/Anick-Saha) <br/>
-> [Medium](https://medium.com/@anicksaha)
+> Quora - [Anick-Saha](https://www.quora.com/profile/Anick-Saha) <br/>
+> Medium - [@anicksaha](https://medium.com/@anicksaha)
 
 ### SN_2:
-> [Linkedin](https://www.linkedin.com/in/anicksaha/) <br/>
-> [AngelList](https://angel.co/anicksaha) <br/>
+> Linkedin - [anicksaha](https://www.linkedin.com/in/anicksaha/) <br/>
+> AngelList - [anicksaha](https://angel.co/anicksaha) <br/>
 
 ### OJs:
-> [Kaggle](https://www.kaggle.com/anicksaha) <br/>
-> [Leetcode](https://leetcode.com/anicksaha/)<br/>
-> [Hackerrank](https://www.hackerrank.com/anicksaha)
+> Kaggle - [anisaha](https://www.kaggle.com/anisaha) <br/>
+> Leetcode - [anisaha](https://leetcode.com/anisaha/) | [anick](https://leetcode.com/anick/) <br/>
+> Hackerrank - [anicksaha](https://www.hackerrank.com/anicksaha)
 
