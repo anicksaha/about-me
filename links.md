@@ -11,3 +11,5 @@
 > Leetcode - [anisaha](https://leetcode.com/anisaha/) | [anick](https://leetcode.com/anick/) <br/>
 > Hackerrank - [anicksaha](https://www.hackerrank.com/anicksaha)
 
+### Others: 
+> Khan Academy - [anicksaha](https://www.khanacademy.org/profile/anicksaha/)
