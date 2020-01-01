@@ -8,7 +8,8 @@
 
 ### OJs:
 > Kaggle - [anisaha](https://www.kaggle.com/anisaha) <br/>
-> Leetcode - [anisaha](https://leetcode.com/anisaha/) | [anick](https://leetcode.com/anick/) <br/>
+> Leetcode - [anisaha](https://leetcode.com/anisaha/) <br/>
+> Codeforces - [anisaha](https://codeforces.com/profile/anisaha) <br/>
 > Hackerrank - [anicksaha](https://www.hackerrank.com/anicksaha)
 
 ### Others: 
