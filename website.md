@@ -1,1 +1,2 @@
 - https://www.cloudways.com/blog/install-wordpress-locally/
+- https://www.youtube.com/watch?v=10rsWKEDFvw
